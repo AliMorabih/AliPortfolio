@@ -282,7 +282,7 @@ a.goto-btn { margin-right: 30px ; border: #fff 1px solid; padding: 12px 18px; co
     margin-bottom: 30px;
 }
 /* Service Section */
-#whatIdo { padding: 60px 0 ; background-color: #000000; color: #909090;}
+#whatIdo { padding: 60px 0 ; background-color: #181d28; color: #909090;}
 .section-header {
     padding: 40px 0;
     text-align: center;
@@ -520,6 +520,7 @@ ul.social li a.fa:hover { background-color: #092572  }
     color: #FFFFFF;
 }
 .count-box.last {}
+
 /* Portfolio / Works Sections */
 #team { padding: 60px 0 }
 #team .item {
@@ -608,7 +609,7 @@ ul.features li span.fa {
     margin-top: 5px;
 }
 /* Portfolio or works blocks */
-#works { padding: 60px 0 ;background-color: #000000;}
+#works { padding: 60px 0 ;background-color: #181d28;}
 ul.cat { margin: 30px 0 }
 ul.cat li a {
     background: inherit;
@@ -820,7 +821,7 @@ ul.cat li a.active {
     border-left: 3px solid #000000;
     left: 20%;
 }
-#experience { padding: 60px 0 20px 0 ;background-color: #000000; color: #ece8e8;}
+#experience { padding: 60px 0 20px 0 ;background-color: #181d28; color: #ece8e8;}
 .experience { margin-bottom: 40px }
 /* Pricing Section */
 #pricing { padding: 60px 0 }
@@ -943,7 +944,7 @@ ul.metas li a { color: #303a50 }
 /*********************************
 /* Map Section
 **********************************/
-#contact { padding: 60px 0 ; background-color: #000000;}
+#contact { padding: 60px 0 ; background-color: #181d28;}
 #map {
     position: relative;
     width: 100%;
@@ -983,7 +984,7 @@ form#contact-form { padding: 40px 0 }
     padding: 10px 12px;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #ffffff;
+    color: #d8dae0;
     background-color: #000000;
     background-image: none;
     border: 1px solid #000000;
