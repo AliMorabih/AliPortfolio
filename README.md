@@ -1,4 +1,4 @@
-# Welcome to My Portfolio
+# Welcome To My Portfolio
 
 Hi there! Welcome To my personal portfolio repository.
 
