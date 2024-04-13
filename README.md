@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-Hi there! Welcome to my personal portfolio repository. Here you'll find examples of my work, projects, and skills.
+Hi there! Welcome To my personal portfolio repository.
 
 ## About Me
 
@@ -15,4 +15,3 @@ Have a question or want to collaborate on a project? Feel free to reach out to m
 - 💼 LinkedIn: https://www.linkedin.com/in/ali-morabih-98598a207/
 - 🌐 Personal Website: https://alimorabih.com
 - 📂 GitHub: https://github.com/alimorabih
-
